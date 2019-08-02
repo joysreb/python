@@ -4,5 +4,5 @@ def number(n):
   else:
     return "odd number"
    
-value=int(input(("input the number:"))
-print(number(n))
+print(number(40))
+print(number(41))
